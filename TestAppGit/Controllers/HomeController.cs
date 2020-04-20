@@ -8,7 +8,7 @@ namespace TestAppGit.Controllers
 {
     public class HomeController : Controller
     {
-        //Lokesh Patil
+        //Testing
         public ActionResult Index()
         {
             return View();
